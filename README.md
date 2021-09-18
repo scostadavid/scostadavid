@@ -9,10 +9,12 @@
   - C
   - C#
   - JavaScript
+  - SQL 
 
 ### 🔧 Techs
   - Unity3D
+  - Postgres
 
 ### 🌱 I’m currently learning 
-  - SQL 
+  - 
   - ShellScript
