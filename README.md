@@ -16,5 +16,4 @@
   - Postgres
 
 ### 🌱 I’m currently learning 
-  - 
   - ShellScript
