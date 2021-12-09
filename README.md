@@ -1,4 +1,4 @@
-### 👋 Hello there, i'm David a programming languages enthusiast, developing games, web application, and academic projects in the most different technologies.
+### 👋 Hello there, i'm David a programming languages enthusiast, developing games, web applications, and academic projects in the most different technologies.
 
 ### 🛠️ languages I have experience and familiarity with
   - C/C++
