@@ -5,7 +5,8 @@
   - C#
   - JavaScript
   - SQL 
-  - Shellscript
+  - Ruby
+  - Python
 
 #### 🔧 Techs
   - Unity3D
@@ -14,4 +15,4 @@
 
 #### 📧 How to reach me
 
-If you want to discuss a project proposal, feel free to contact me at my [email](mailto:davidshcosta@gmail.com) address or one of my social media on my [linktree](https://linktr.ee/ds.costa).
+If you want to discuss a project proposal, feel free to contact me at my [email](mailto:davidshcosta@gmail.com) address or one of my social media on my [AllMyLinks](https://allmylinks.com/scostadavid).
