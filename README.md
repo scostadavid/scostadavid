@@ -1,6 +1,8 @@
-> 👋 Hello there, i'm David a programming languages enthusiast, developing games, web applications, and academic projects in the most different technologies.
+> 👋 Hello world, i'm David. A programming languages enthusiast, solving problems, developing games, web applications, and academic projects.
 
-#### 🛠️ languages I have experience and familiarity with
+[e-mail me](mailto:davidshcosta@gmail.com) | [linkedin](https://www.linkedin.com/in/scostadavid/) | [itch.io](https://0xdc.itch.io/)
+
+#### 🛠️ Languages
   - C/C++
   - C#
   - JavaScript
@@ -10,9 +12,9 @@
 
 #### 🔧 Techs
   - Unity3D
+  - ReactJS / React Native
+  - Rails
+  - Express
   - Postgres
-  - ReactJS
-
-#### 📧 How to reach me
-
-If you want to discuss a project proposal, feel free to contact me at my [email](mailto:davidshcosta@gmail.com) address or one of my social media on my [AllMyLinks](https://allmylinks.com/scostadavid).
+ 
+<!-- Toasty 🍞 -->
