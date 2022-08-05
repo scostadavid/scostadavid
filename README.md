@@ -1,6 +1,6 @@
 > 👋 Hello world, i'm David. A programming languages enthusiast, solving problems, developing games, web applications, and academic projects.
 
-[e-mail me](mailto:davidshcosta@gmail.com) | [linkedin](https://www.linkedin.com/in/scostadavid/) | [itch.io](https://0xdc.itch.io/)
+[e-mail me: davidshcosta@gmail.com](mailto:davidshcosta@gmail.com) | [linkedin](https://www.linkedin.com/in/scostadavid/) | [itch.io](https://0xdc.itch.io/)
 
 #### 🛠️ Languages
   - C/C++
