@@ -1,4 +1,4 @@
-> 👋 Hello world, i'm David. A programming languages enthusiast, solving problems, developing games, web applications, and academic projects.
+> 👋 Hello world, i'm David. A professional full stack-developer and problem solver.
 
 [davidshcosta@gmail.com](mailto:davidshcosta@gmail.com) | [site](https://scostadavid.github.io) | [linkedin](https://www.linkedin.com/in/scostadavid/) | [itch.io](https://0xdc.itch.io/)
 
