@@ -16,7 +16,5 @@
   - Rails
   - Express
   - Postgres
-  - AWS
-  - Docker
  
 <!-- Toasty 🍞 -->
