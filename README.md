@@ -1,6 +1,6 @@
-> 👋 Hello world, i'm David. A professional full stack-developer and problem solver.
+> 👋 Hi, i'm David. A professional full stack developer and problem solver.
 
-[scostadavid@proton.me](mailto:scostadavid@proton.me) | [site](https://scostadavid.github.io) | [linkedin](https://www.linkedin.com/in/scostadavid/) | [itch.io](https://0xdc.itch.io/)
+[Personal website](https://scostadavid.github.io) | [Linkedin](https://www.linkedin.com/in/scostadavid/) | [Itch.io](https://goldfishnoodle.itch.io/)
 
 #### 🛠️ Languages
   - C/C++
