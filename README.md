@@ -1,4 +1,4 @@
-> 👋 Hi, i'm David. A professional problem solver.
+> 👋 Hi, i'm David, a professional problem solver.
 
 [Personal website](https://scostadavid.github.io) | [Linkedin](https://www.linkedin.com/in/scostadavid/) | [Itch.io](https://goldmannn.itch.io/)
 
