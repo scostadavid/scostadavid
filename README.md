@@ -1,6 +1,6 @@
-> 👋 Hi, i'm David. A professional full stack developer and problem solver.
+> 👋 Hi, i'm David. A professional problem solver.
 
-[Personal website](https://scostadavid.github.io) | [Linkedin](https://www.linkedin.com/in/scostadavid/) | [Itch.io](https://goldfishnoodle.itch.io/)
+[Personal website](https://scostadavid.github.io) | [Linkedin](https://www.linkedin.com/in/scostadavid/) | [Itch.io](https://goldmannn.itch.io/)
 
 #### 🛠️ Languages
   - C/C++
@@ -11,10 +11,10 @@
   - Python
 
 #### 🔧 Techs
-  - Unity3D
-  - ReactJS / React Native
+  - React / React Native
   - Rails
   - Express
   - Postgres
+  - Unity
  
 <!-- Toasty 🍞 -->
