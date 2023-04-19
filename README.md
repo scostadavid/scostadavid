@@ -11,7 +11,7 @@
   - Python
 
 #### 🔧 Techs
-  - React / React Native
+  - React/React Native
   - NodeJS
   - Rails
   - Postgres
