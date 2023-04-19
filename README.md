@@ -12,8 +12,8 @@
 
 #### 🔧 Techs
   - React / React Native
+  - NodeJS
   - Rails
-  - Express
   - Postgres
   - Unity
  
