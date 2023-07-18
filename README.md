@@ -1,23 +1,23 @@
-> 👋 Hi, i'm David, a professional problem solver.
-
-[Personal website](https://scostadavid.github.io) | [Linkedin](https://www.linkedin.com/in/scostadavid/) | [Itch.io](https://thegoldmannn.itch.io/)
+> 👋 Hi, i'm [David](https://scostadavid.github.io), a professional problem solver. 
 
 #### 🛠️ Languages
-  - C/C++
+  - C
+  - C++
   - C#
   - JavaScript
-  - SQL 
-  - Ruby
   - Python
+  - Ruby
+  - SQL 
 
 #### 🔧 Techs
-  - React
-  - React Native
-  - NextJS
   - GatsbyJS
   - NodeJS
-  - Rails
+  - NextJS
   - Postgres
-  - Unity
- 
+  - Rails
+  - React
+  - React Native
+  - Unity 
+
+**contact me**: [linkedin](https://www.linkedin.com/in/scostadavid/) | [email](mailto:scostadavid@proton.me) 
 <!-- Toasty 🍞 -->
