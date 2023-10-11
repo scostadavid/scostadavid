@@ -10,13 +10,14 @@
   - SQL 
 
 #### 🔧 Techs
+  - AWS
+  - Docker
   - GatsbyJS
   - NodeJS
   - NextJS
   - Postgres
   - Rails
-  - React
-  - React Native
+  - React / React Native
   - Unity 
 
 **contact me**: [linkedin](https://www.linkedin.com/in/scostadavid/) | [email](mailto:scostadavid@proton.me) 
