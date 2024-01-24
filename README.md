@@ -9,6 +9,7 @@
 - .NET
 - AWS, 
 - NodeJS
+- Rails
 - React
 - Postgres
 
