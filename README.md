@@ -7,7 +7,7 @@
 
 #### 🔧 Technologies:
 - .NET
-- AWS, 
+- AWS
 - NodeJS
 - Rails
 - React
