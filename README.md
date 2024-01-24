@@ -6,8 +6,9 @@
 - C#
 
 #### 🔧 Technologies:
+- .NET
 - AWS, 
-- Docker
+- NodeJS
 - React
 - Postgres
 
