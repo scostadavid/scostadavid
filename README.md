@@ -1,4 +1,4 @@
-> 👋 Hi, i'm [David](https://scostadavid.github.io), a Full Stack Sofware Enginner based in Brazil. 
+> 👋 Hi, i'm [David](https://scostadavid.github.io), a Full Stack Sofware Developer based in Brazil. 
 
 #### 🛠️ Languages:
 - GoLang
