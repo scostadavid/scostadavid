@@ -1,17 +1,18 @@
-> 👋 Hi, i'm [David](https://scostadavid.github.io), a Full Stack Sofware Developer based in Brazil. 
+> 👋 Hi, i'm [David](https://scostadavid.github.io), a Sofware Developer based in Brazil. 
 
 #### 🛠️ Languages:
+- C# 
 - GoLang
-- JavaScript
-- C#
+- TypeScript
 
 #### 🔧 Technologies:
 - .NET
 - AWS
+- Docker
 - NodeJS
-- Rails
 - React
 - Postgres
+- Mongodb
 
-**contact me**: [linkedin](https://www.linkedin.com/in/scostadavid/) | [email](mailto:scostadavid@proton.me) 
+**contact me**: [site](https://scostadavid.dev) | [linkedin](https://www.linkedin.com/in/scostadavid/) | [email](mailto:me@scostadavid.dev) 
 <!-- Toasty 🍞 -->
