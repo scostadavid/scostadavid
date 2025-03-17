@@ -1,8 +1,7 @@
-> 👋 Hi, i'm [David](https://scostadavid.github.io), a Sofware Developer based in Brazil. 
+> 👋 Hi, i'm [David](https://scostadavid.dev), a Sofware Developer based in Brazil. 
 
 #### 🛠️ Languages:
 - C# 
-- GoLang
 - TypeScript
 
 #### 🔧 Technologies:
